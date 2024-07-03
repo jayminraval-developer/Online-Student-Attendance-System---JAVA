@@ -28,6 +28,6 @@ HTML, CSS, JS
 Core Java: Backend logic and processing 
 JDBC: Database connectivity
 MySQL: Database management
-JavaMail API: Email notifications
+
 
 Note:- Send user name and password to students via email on this page Some error occurs.
