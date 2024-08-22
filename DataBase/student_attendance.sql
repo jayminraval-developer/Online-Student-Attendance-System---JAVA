@@ -35,14 +35,18 @@ CREATE TABLE IF NOT EXISTS `admin` (
   `uname` varchar(45) DEFAULT NULL,
   `password` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=787 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `admin`
 --
 
 INSERT INTO `admin` (`id`, `admin_name`, `email`, `uname`, `password`) VALUES
-(6, 'Deep Darji', 'darjideep27@gmail.com', 'deep123', '9586');
+(6, 'Deep Darji', 'chaudharykaushik18403@gmail.com', 'Kaushik123', '9586');
+
+INSERT INTO `admin` (`id`, `admin_name`, `email`, `uname`, `password`) VALUES
+(7, 'Jaymin Raval', 'jayminraval@gmail.com', 'Jaymin123', '7046');
+
 
 -- --------------------------------------------------------
 
